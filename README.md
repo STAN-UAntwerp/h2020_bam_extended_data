@@ -11,6 +11,3 @@ Extended data for 'Machine learning-based identification of key biotic and abiot
 <sup>g</sup> University of Antwerp, Department of Biology, Universiteitsplein 1, 2610, Wilrijk, Belgium \
 <sup>h</sup> Wageningen University & Research, Department of Soil Chemistry, Droevendaalsesteeg 3, 6708 PB, Wageningen, the Netherlands \
 <sup>1</sup> corresponding author: Iris Janssens iris.janssens@uantwerpen.be
-
-- [Extended info – A.pdf](Extended_info_–_A.pdf) contains information about the data processing and additional noise analysis.
-- [Extended info – B.pdf](Extended_info_–_B.pdf) contains information about the machine learning analysis and extended Shapley Additive exPlanation figures.
